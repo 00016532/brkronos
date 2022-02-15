@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @brkronos
+- 👀 I’m interested in Web and science
+- 🌱 I’m currently learning Python
